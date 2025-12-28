@@ -56,5 +56,10 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
 # Project specific
 .uv/
