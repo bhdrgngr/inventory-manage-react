@@ -1,0 +1,1 @@
+Fastapi ve React öğreniyorum
